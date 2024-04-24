@@ -1,0 +1,4 @@
+repository "Phantomas@rocketon85@cloud"
+  path "/"
+    br "/main"
+    co "/main"
